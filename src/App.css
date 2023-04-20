@@ -1,0 +1,43 @@
+.logo{
+  width: 6%;
+  border-radius: 50%;
+  border: 1px solid white;
+ 
+}
+*{
+  margin: 0%;
+  padding: 0%;
+
+}
+.abcd{
+ 
+  width: 60%;
+}
+.nav{
+  background-color: rgb(84, 85, 86);
+}
+.nav a{
+  text-decoration: none;
+  color: white;
+  margin-right: 3%;
+}
+
+.nav input{
+  padding: 2%;
+  border-style: none;
+  border-radius: 18px;
+  margin: 0%;
+  width: 100%;
+
+}
+.nav button{
+  background-color: orangered;
+}
+.input{
+  background-color: white;
+  border-radius: 18px;
+  /* text-align: center; */
+}
+.icon{
+  color: orangered;
+}
